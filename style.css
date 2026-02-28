@@ -36,3 +36,12 @@ a {
     align-items: center;
     flex-wrap: wrap;
 }
+
+
+li {
+    list-style: none;
+}
+
+.between {
+    justify-content: space-between;
+}
