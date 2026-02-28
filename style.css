@@ -45,3 +45,11 @@ li {
 .between {
     justify-content: space-between;
 }
+
+.gap-2 {
+    gap: 2rem;
+}
+
+.gap-3 {
+    gap: 3rem;
+}
