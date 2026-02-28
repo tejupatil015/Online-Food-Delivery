@@ -10,3 +10,16 @@
     font-family: "Roboto Condensed", sans-serif;
     font-family: "Libre Baskerville", serif;
 }
+:root {
+    --lead: #212121;
+    --gold: #f2bd12;
+    --eye: #fffdf7;
+    --hint: #fcf1cc;
+    --white: #fff;
+    --primary: "Roboto Condensed", sans-serif;
+    --secondary: "Libre Baskerville", serif;
+}
+
+body {
+    background-color: var(--eye);
+}
