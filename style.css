@@ -67,3 +67,20 @@ li {
 .test-center {
     text-align: center;
 }
+
+
+.mt-4 {
+    margin-top: 4rem;
+}
+
+.mt-one-half {
+    margin-top: .5rem;
+}
+
+.m-auto {
+    margin: auto;
+}
+
+.mt-one-half {
+    margin-top: 1.5rem;
+}
