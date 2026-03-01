@@ -84,3 +84,13 @@ li {
 .mt-one-half {
     margin-top: 1.5rem;
 }
+ 
+.navbar {
+    min-height: 14vh;
+}
+
+.logo {
+    font-size: 2rem;
+    font-weight: bold;
+    color: var(--gold);
+}
