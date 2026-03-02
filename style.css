@@ -94,3 +94,19 @@ li {
     font-weight: bold;
     color: var(--gold);
 }
+
+.btn {
+    display: inline-block;
+    padding: .9rem 2rem;
+    background: var(--gold);
+    border-radius: 1rem;
+    font-size: 1.1rem;
+    color: var(--white);
+    box-shadow: rgba(0, 0, 0, 0.257) 0 2px 1px;
+    transition: .3d ease-in-out;
+}
+
+.btn:hover {
+    background: var(--lead);
+
+}
