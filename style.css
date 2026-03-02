@@ -110,3 +110,9 @@ li {
     background: var(--lead);
 
 }
+
+.cart-icon {
+    color: var(--lead);
+    font-size: 1.3rem;
+    position: relative;
+}
