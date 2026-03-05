@@ -140,3 +140,15 @@ li {
 .mobile-menu {
     display: none;
 }
+
+/*section*/
+.hero-section {
+    min-height: calc(100vh -14vh);
+}
+
+.content,
+.img-container,
+.service-card {
+    flex: 1;
+    flex-basis: 300px;
+}
