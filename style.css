@@ -162,3 +162,10 @@ h1 {
 h1 span {
     color: var(--gold);
 }
+
+p {
+    font-size: 1rem;
+    cursor: grey;
+    line-height: 1.8rem;
+    font-weight: 400;
+}
