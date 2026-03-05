@@ -169,3 +169,9 @@ p {
     line-height: 1.8rem;
     font-weight: 400;
 }
+
+.para {
+    margin-top: 2rem;
+    margin-block: 2rem;
+    max-width: 550px;
+}
