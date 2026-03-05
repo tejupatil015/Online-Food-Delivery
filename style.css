@@ -131,3 +131,12 @@ li {
     text-align: center;
     line-height: 20px;
 }
+
+.hamburger {
+    font-size: 1.5rem;
+    display: none;
+}
+
+.mobile-menu {
+    display: none;
+}
