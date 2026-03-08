@@ -200,3 +200,15 @@ h5 {
     color: var(--gold);
     text-transform: uppercase;
 }
+
+h2 {
+    font-size: 3.7rem;
+    text-transform: capitalize;
+    color: var(--lead);
+}
+
+h3 {
+    font-size: 2rem;
+    text-transform: capitalize;
+    color: var(--lead);
+}
