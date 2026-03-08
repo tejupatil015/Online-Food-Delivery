@@ -187,3 +187,8 @@ p {
     transition: .3s ease-in-out;
     margin-top: 1rem;
 }
+
+.social-icon:hover {
+    background: var(--lead);
+    color: var(--white);
+}
