@@ -230,3 +230,8 @@ h3 {
         rgb(0, 0, 0, 0.05) 8px 8px 8px inset;
 
 }
+.order-card img {
+    width: 15rem;
+    filter: drop-shadow(rgba(0, 0, 0, 0.2) 0 10px 10px);
+}
+
