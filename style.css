@@ -245,4 +245,16 @@ h4 {
     padding: 0.8rem 0 1rem 0;
 }
 
+/*cart tab*/
+.cart-tab {
+    position: fixed;
+    inset: 0 0 0 auto;
+    width: 25rem;
+    padding-block: 2rem;
+    background: var(--hint);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
 
