@@ -271,3 +271,12 @@ h4 {
     padding-block: 1rem;
 }
 
+.total-container h4{
+    display: inline-block;
+    font-size: 1.3rem;
+    font-weight: 400; 
+}
+.btn-container .btn{
+    background: var(--lead);
+    transition: .3s ease-in-out;
+}
