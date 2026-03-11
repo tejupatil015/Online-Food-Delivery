@@ -258,3 +258,16 @@ h4 {
     align-items: center;
 }
 
+.cart-list {
+    flex: 1;
+    width: 100%;
+    
+}
+.total-container {
+    width: 100%;
+    background: var(--gold);
+    text-align: center;
+    margin-block: 1rem;
+    padding-block: 1rem;
+}
+
