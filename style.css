@@ -284,3 +284,17 @@ h4 {
     background: var(--gold);
     color: var(--lead);
 }
+/*
+.item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: .8rem;
+}
+.item h4{
+    font-size: 1.3rem;
+    color: var(--lead);
+}
+.item .img-container-1 img{
+    width: 2rem;
+}/*
