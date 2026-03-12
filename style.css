@@ -280,7 +280,10 @@ h4 {
     background: var(--lead);
     transition: .3s ease-in-out;
 }
-
+.btn-container .btn:hover{
+    background: var(--gold);
+    color: var(--lead);
+}
 
 /*
 .item {
