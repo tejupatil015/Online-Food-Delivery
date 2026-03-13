@@ -299,3 +299,17 @@ h4 {
 .item .img-container-1 img{
     width: 2rem;
 }/*
+
+/*section3*/    
+.wrapper-1 {
+    justify-content: space-between;
+    align-items: center;
+    display: flex;
+}
+
+.review-container {
+    width: 650px;
+    max-width: 100%;
+    flex: 1;
+
+}
