@@ -332,3 +332,13 @@ h4 {
 .fa-star {
     color: var(--gold);
 }
+.arrow {
+    width: 2.5rem;
+    aspect-ratio: 1;
+    border-radius: 100vw;
+    background: var(--gold);
+    color: var(--lead);
+    text-align: center;
+    line-height: 2.5rem;
+}
+
