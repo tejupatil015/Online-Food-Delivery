@@ -383,3 +383,17 @@ h4 {
     text-align: start;
 }
 
+
+
+
+/* section 5*/
+
+.input-container {
+    width: 43rem;
+    max-width: 100%;
+    padding: .8rem;
+    background: var(--white);
+    box-shadow:
+        rgba(0, 0, 0, 0.1) 0 5px 8px;
+    border-radius: 1rem;
+}
