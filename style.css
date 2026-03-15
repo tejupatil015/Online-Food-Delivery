@@ -353,3 +353,15 @@ h4 {
     text-align: center;
     line-height: 2.5rem;
 }
+
+
+.app-container {
+    background: var(--hint);
+    padding: 3rem 6rem;
+    border-radius: 3rem;
+
+}
+
+.app-container img {
+    width: 25rem;
+}
