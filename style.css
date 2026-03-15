@@ -410,3 +410,8 @@ input[type="email"]:focus {
     outline: none;
 }
 
+/*footer*/
+.footer-container .flex {
+    align-items: start;
+    flex-basis: 150px;
+}
