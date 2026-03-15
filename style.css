@@ -375,3 +375,11 @@ h4 {
     text-align: start;
     font-style: italic;
 }
+.app-container h5 {
+    text-align: start;
+}
+
+.app-container .btn {
+    text-align: start;
+}
+
