@@ -444,3 +444,6 @@ input[type="email"]:focus {
     font-size: 1.1rem;
     transition: .3s ease-in-out;
 }
+.footer-link:hover {
+    color: var(--lead);
+}
