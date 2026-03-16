@@ -447,3 +447,18 @@ input[type="email"]:focus {
 .footer-link:hover {
     color: var(--lead);
 }
+
+
+
+/*media querry*/
+@media screen and (max-width: 780px) {
+
+    /*Header*/
+    .navlist,
+    .action .btn {
+        display: none;
+    }
+
+    .action .hamburger {
+        display: block;
+    }
