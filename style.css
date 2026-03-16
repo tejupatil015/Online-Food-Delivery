@@ -434,3 +434,13 @@ input[type="email"]:focus {
 .footer-wrapper .social-icon {
     background: var(--white);
 }
+.footer-wrapper .social-icon:hover {
+    background: var(--lead);
+    color: var(--white);
+}
+
+.footer-link {
+    color: gray;
+    font-size: 1.1rem;
+    transition: .3s ease-in-out;
+}
