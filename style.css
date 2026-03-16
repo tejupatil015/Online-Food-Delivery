@@ -494,3 +494,10 @@ input[type="email"]:focus {
         font-size: 3.6rem;
 
     }
+     .content {
+        padding-top: 3rem;
+    }
+
+    .gap-2 {
+        gap: 1rem;
+    }
