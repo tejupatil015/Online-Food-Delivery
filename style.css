@@ -426,3 +426,11 @@ input[type="email"]:focus {
     padding-block: 4rem;
     background: var(--hint);
 }
+
+.footer-wrapper {
+    flex: 1;
+}
+
+.footer-wrapper .social-icon {
+    background: var(--white);
+}
