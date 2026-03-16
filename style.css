@@ -482,3 +482,15 @@ input[type="email"]:focus {
             rgb(0, 0, 0, 0.05) 8px 8px 8px inset;
         transition: all .5s ease-in-out;
     }
+    
+    .mobile-menu-active {
+        left: 50%;
+        transform: translateX(-50%);
+    }
+
+    /*hero section*/
+    /*section*/
+    h1 {
+        font-size: 3.6rem;
+
+    }
