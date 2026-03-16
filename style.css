@@ -462,3 +462,23 @@ input[type="email"]:focus {
     .action .hamburger {
         display: block;
     }
+       .mobile-menu {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 2rem;
+        position: absolute;
+        top: 20%;
+        left: -100%;
+        width: 20rem;
+        padding: 2rem;
+        transform: translateX(-50%);
+        background: var(--white);
+        border: .1rem solid var(--gold);
+        border-radius: 2rem;
+        box-shadow:
+            rgb(0, 0, 0, 0.05) 8px 8px 8px,
+            rgb(0, 0, 0, 0.05) 8px 8px 8px inset;
+        transition: all .5s ease-in-out;
+    }
