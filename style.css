@@ -521,5 +521,18 @@ input[type="email"]:focus {
     h2 {
         font-size: 3rem;
     }
+    h3 {
+        font-size: 3rem;
+    }
 
+    /* section4*/
+    .app-container {
+        padding: 2.2rem;
+    }
+
+    .app-container h2 {
+        font-size: 3.5rem;
+    }
+
+}
   
