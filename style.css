@@ -517,3 +517,9 @@ input[type="email"]:focus {
     .gap-4 {
         gap: 4rem;
     }
+    /*section 1*/
+    h2 {
+        font-size: 3rem;
+    }
+
+  
