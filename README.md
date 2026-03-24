@@ -41,7 +41,7 @@ online-food-delivery/
 ⚙️ How to Run
 Download or clone the repository
 
-git clone https://github.com/your-username/online-food-delivery.git
+git clone https://github.com/tejupatil015/Online-Food-Delivery.git
 
 
 Open the project folder
