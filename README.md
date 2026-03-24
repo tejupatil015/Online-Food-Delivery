@@ -30,6 +30,7 @@ Media Queries
 
 📂 Project Structure
 online-food-delivery/
+
 │── index.html
 │── style.css
 │── images/
@@ -39,11 +40,13 @@ online-food-delivery/
 
 ⚙️ How to Run
 Download or clone the repository
+
 git clone https://github.com/your-username/online-food-delivery.git
 
 
 Open the project folder
 Double-click on index.html
+
 OR open with Live Server (recommended)
 📸 Screenshots
 
@@ -57,7 +60,11 @@ Implement real cart functionality
 Backend integration for orders
 Payment gateway support
 
+
+
+
 🎯 Purpose of Project
+
 Practice HTML & CSS skills
 Improve UI/UX design understanding
 Build a responsive real-world project
