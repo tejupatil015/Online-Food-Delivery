@@ -1,11 +1,15 @@
 🍔 Online Food Delivery Website (Frontend)
 📌 Overview
 
+
 The Online Food Delivery Website is a responsive frontend project built using HTML and CSS. It provides a visually appealing interface for users to browse food items, explore menus, and simulate an online food ordering experience.
 
 This project focuses on UI/UX design, layout structuring, and responsiveness without backend functionality.
 
+
+
 🚀 Features
+
 🏠 Attractive Homepage Design
 🍽️ Food Menu Section
 🔍 Search Bar UI
@@ -14,12 +18,16 @@ This project focuses on UI/UX design, layout structuring, and responsiveness wit
 🎨 Modern Layout with CSS Styling
 📦 Category-wise Food Display
 🧑‍💻 Tech Stack
+
+
 HTML5 – Structure of the website
 CSS3 – Styling and layout
 Flexbox
 Grid
 Animations
 Media Queries
+
+
 📂 Project Structure
 online-food-delivery/
 │── index.html
