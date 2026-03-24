@@ -25,7 +25,7 @@ body {
     background-color: var(--eye);
 }
 
-
+/*basic   */
 a {
     font-size: 1.1rem;
     text-decoration: none;
@@ -37,7 +37,6 @@ a {
     align-items: center;
     flex-wrap: wrap;
 }
-
 
 li {
     list-style: none;
@@ -62,6 +61,13 @@ li {
     text-align: center;
 }
 
+img {
+    max-width: 100vh;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+
 .p-top {
     padding-top: 10rem;
 }
@@ -69,7 +75,6 @@ li {
 .test-center {
     text-align: center;
 }
-
 
 .mt-4 {
     margin-top: 4rem;
@@ -86,6 +91,8 @@ li {
 .mt-one-half {
     margin-top: 1.5rem;
 }
+
+/*header*/
 
 .navbar {
     min-height: 14vh;
@@ -133,6 +140,7 @@ li {
     text-align: center;
     line-height: 20px;
 }
+
 
 .hamburger {
     font-size: 1.5rem;
@@ -196,6 +204,7 @@ p {
     color: var(--white);
 }
 
+
 /*section 1*/
 h5 {
     font-size: 1.2rem;
@@ -220,6 +229,7 @@ h3 {
     margin-top: 1.5rem;
     margin-bottom: 1rem;
 }
+
 
 /*section 2*/
 .order-card {
@@ -263,13 +273,11 @@ h4 {
     justify-content: center;
     align-items: center;
 }
-
 .cart-list {
     flex: 1;
     width: 100%;
-
+    
 }
-
 .total-container {
     width: 100%;
     background: var(--gold);
@@ -277,23 +285,20 @@ h4 {
     margin-block: 1rem;
     padding-block: 1rem;
 }
-
-.total-container h4 {
+.total-container h4{
     display: inline-block;
     font-size: 1.3rem;
-    font-weight: 400;
+    font-weight: 400; 
 }
-
-.btn-container .btn {
+.btn-container .btn{
     background: var(--lead);
     transition: .3s ease-in-out;
 }
 
-.btn-container .btn:hover {
+.btn-container .btn:hover{
     background: var(--gold);
     color: var(--lead);
 }
-
 /*
 .item {
     display: flex;
@@ -308,8 +313,7 @@ h4 {
 .item .img-container-1 img{
     width: 2rem;
 }/*
-
-/*section3*/
+/*section3*/    
 .wrapper-1 {
     justify-content: space-between;
     align-items: center;
@@ -320,6 +324,7 @@ h4 {
     width: 650px;
     max-width: 100%;
     flex: 1;
+
 }
 
 .swiper {
@@ -354,6 +359,7 @@ h4 {
     line-height: 2.5rem;
 }
 
+/*section 4*/
 
 .app-container {
     background: var(--hint);
@@ -366,6 +372,8 @@ h4 {
     width: 25rem;
 }
 
+
+
 .app-container h2 {
     font-size: 3.5rem;
     text-align: start;
@@ -375,6 +383,7 @@ h4 {
     text-align: start;
     font-style: italic;
 }
+
 .app-container h5 {
     text-align: start;
 }
@@ -382,6 +391,8 @@ h4 {
 .app-container .btn {
     text-align: start;
 }
+
+
 
 
 
@@ -434,6 +445,7 @@ input[type="email"]:focus {
 .footer-wrapper .social-icon {
     background: var(--white);
 }
+
 .footer-wrapper .social-icon:hover {
     background: var(--lead);
     color: var(--white);
@@ -444,9 +456,13 @@ input[type="email"]:focus {
     font-size: 1.1rem;
     transition: .3s ease-in-out;
 }
+
 .footer-link:hover {
     color: var(--lead);
 }
+
+
+
 
 
 
@@ -462,7 +478,8 @@ input[type="email"]:focus {
     .action .hamburger {
         display: block;
     }
-       .mobile-menu {
+
+    .mobile-menu {
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -482,7 +499,7 @@ input[type="email"]:focus {
             rgb(0, 0, 0, 0.05) 8px 8px 8px inset;
         transition: all .5s ease-in-out;
     }
-    
+
     .mobile-menu-active {
         left: 50%;
         transform: translateX(-50%);
@@ -490,17 +507,6 @@ input[type="email"]:focus {
 
     /*hero section*/
     /*section*/
-    h1 {
-        font-size: 3.6rem;
-
-    }
-     .content {
-        padding-top: 3rem;
-    }
-
-    .gap-2 {
-        gap: 1rem;
-    }
     h1 {
         font-size: 3.6rem;
 
@@ -517,11 +523,9 @@ input[type="email"]:focus {
     .gap-4 {
         gap: 4rem;
     }
+
     /*section 1*/
     h2 {
-        font-size: 3rem;
-    }
-    h3 {
         font-size: 3rem;
     }
 
