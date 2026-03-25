@@ -44,6 +44,8 @@ Download or clone the repository
 git clone https://github.com/tejupatil015/Online-Food-Delivery.git
 
 
+git demo:
+
 Open the project folder
 Double-click on index.html
 
