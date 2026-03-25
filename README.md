@@ -50,6 +50,7 @@ Double-click on index.html
 OR open with Live Server (recommended)
 📸 Screenshots
 
+<img width="1763" height="5593" alt="image" src="https://github.com/user-attachments/assets/a138cc88-77bf-4e8f-8fa3-47166087f52e" />
 
 
 
